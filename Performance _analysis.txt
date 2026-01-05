@@ -1,0 +1,13 @@
+Performance Analysis – FIR Filter
+
+Filter Type: Low Pass FIR Filter
+Filter Order: 20
+Sampling Frequency: 1000 Hz
+Cutoff Frequency: 100 Hz
+
+The FIR filter removes high-frequency noise from the input signal.
+The filtered output is smoother than the input signal.
+FIR filters are stable because they do not use feedback.
+
+Conclusion:
+The FIR filter performs efficiently and meets the task requirements.
